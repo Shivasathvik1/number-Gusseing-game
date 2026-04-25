@@ -1,4 +1,4 @@
-#Number Guessing Game
+Number Guessing Game
 A simple command-line number guessing game built with Python. The computer picks a secret number between 1 and 50, and you have 10 attempts to guess it.
 
 How to Play
